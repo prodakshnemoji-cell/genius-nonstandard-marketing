@@ -1,0 +1,15 @@
+{
+  "name": "olga-kandakova-marketing",
+  "interface": {
+    "displayName": "Маркетинговые плагины Ольги Кандаковой"
+  },
+  "plugins": [
+    {
+      "name": "genius-nonstandard-marketing",
+      "source": {
+        "source": "local",
+        "path": "./"
+      }
+    }
+  ]
+}
